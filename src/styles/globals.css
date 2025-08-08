@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+ul, li{
+  list-style: none;
+  text-decoration: none;
+  font-size: 16pt;
+}
+
+header{
+  width: 100vw ;
+  height: 50px;
+  background-color: #1bb7c298;
+
+}
+
+.index{
+  width: 900px;
+  margin: auto;
+  display: flex;
+}
+
+.cabecalho{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+
+.ger-lead{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Rodape{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.vender{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

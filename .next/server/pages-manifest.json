@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/Rodape": "pages/Rodape.js",
+  "/carrinho": "pages/carrinho.js",
+  "/componentes/cabecalho": "pages/componentes/cabecalho.js",
+  "/converter-clienrte": "pages/converter-clienrte.js",
+  "/dashboard": "pages/dashboard.js",
+  "/ger-lead": "pages/ger-lead.js",
+  "/ger-produtos": "pages/ger-produtos.js",
+  "/ger-usuarios": "pages/ger-usuarios.js",
+  "/": "pages/index.js",
+  "/layouts/conversao": "pages/layouts/conversao.js",
+  "/layouts/clientes": "pages/layouts/clientes.js",
+  "/layouts/home": "pages/layouts/home.js",
+  "/layouts/leads": "pages/layouts/leads.js",
+  "/layouts/produtos": "pages/layouts/produtos.js",
+  "/vender": "pages/vender.js"
+}
